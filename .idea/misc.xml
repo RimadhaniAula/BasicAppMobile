@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/aplas-A1-starter-main/app/src/main/res/drawable/distance.xml" value="0.2046875" />
         <entry key="..\:/aplas-A1-starter-main/app/src/main/res/drawable/header_style.xml" value="0.2046875" />
+        <entry key="..\:/aplas-A1-starter-main/app/src/main/res/drawable/weight.xml" value="0.2203125" />
         <entry key="..\:/aplas-A1-starter-main/app/src/main/res/layout/activity_main.xml" value="0.18" />
       </map>
     </option>
